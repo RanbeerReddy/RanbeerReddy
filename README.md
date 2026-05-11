@@ -51,16 +51,6 @@ Building production-oriented AI systems, backend infrastructure, and scalable ma
 - Improving AI reliability and orchestration workflows
 
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RanbeerReddy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbeerReddy&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p>
