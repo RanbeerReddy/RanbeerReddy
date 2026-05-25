@@ -24,12 +24,7 @@ Currently learning:
 
 ## Hobbies
 
-- Boxing
-- Chess
-- Calisthenics
-- Guitar
-- Bansuri
-- Explaining my project ideas like a TED Talk nobody asked for
+- IDK
 
 ---
 
