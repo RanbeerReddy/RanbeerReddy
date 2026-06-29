@@ -24,7 +24,7 @@ Currently learning:
 
 ## Hobbies
 
-- IDK
+- Ehhhhhhhhhhhhhhhhhhhh
 
 ---
 
