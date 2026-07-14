@@ -18,8 +18,7 @@ Currently learning:
 - Broke models
 - Fixed models
 - Broke them again
-- Said “interesting...” multiple times
-
+- Written some code too ig
 ---
 
 ## Hobbies
@@ -36,7 +35,7 @@ while alive:
     build()
     question_existence()
 Fun Facts
-Opens 37 tabs to “study”
+Opens 137 tabs to “study”
 Thinks sleep is optional during project season
 Calls bugs “unexpected features”
 Wants to build something insane before graduation
