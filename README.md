@@ -14,37 +14,11 @@ I build things, break them, and then act surprised. Currently trying to get bett
 
 ---
 
-### Experience, roughly in order
-
-\`\`\`diff
-+ trained a model
-- broke the model
-+ fixed the model
-- broke it again, differently this time
-+ wrote some actual code in between all that
-\`\`\`
-
-I'd call it a learning curve, but it's more of a learning circle.
-
----
-
 ### Hobbies
 
 Ehhhhhhhhhhhhhhhhhhhh.
 
 (Ask me again after finals.)
-
----
-
-### Current status
-
-\`\`\`python
-while alive:
-    learn()
-    build()
-    question_existence()
-    # no exceptions handled, we panic like adults
-\`\`\`
 
 ---
 
@@ -56,14 +30,3 @@ while alive:
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&hide_rank=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
----
-
-<div align="center">
-
-*"Vibe coding ends where debugging begins."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
